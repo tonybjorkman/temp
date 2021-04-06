@@ -1,0 +1,4 @@
+//GE ownership
+//   2019 @  GE Healthcare
+GE Healthcare   @     2019
+font:dialog"GE Inspira"

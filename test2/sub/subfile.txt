@@ -1,0 +1,3 @@
+font:dialog"GE Inspira"
+//   2019 @  GE Healthcare
+GE Healthcare   @     2019
